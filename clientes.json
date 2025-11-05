@@ -1,0 +1,53 @@
+{
+  "clientes": [
+    {
+      "nome": "Oi",
+      "placa": "Qqqqqq",
+      "carro": "Onix",
+      "data_vencimento": "30/10/2025",
+      "telefone": "81996712788"
+    },
+    {
+      "nome": "Neto",
+      "placa": "Qwww",
+      "carro": "Gol",
+      "data_vencimento": "31/10/2025",
+      "telefone": "81996712788"
+    },
+    {
+      "nome": "Thiago",
+      "placa": "Qqqqqq",
+      "carro": "Uno",
+      "data_vencimento": "31/10/2025",
+      "telefone": "81999581571"
+    },
+    {
+      "nome": "Paulo",
+      "placa": "Qqq1111",
+      "carro": "Toro",
+      "data_vencimento": "31/10/2025",
+      "telefone": "81995331107"
+    },
+    {
+      "nome": "Paulo",
+      "placa": "Uuu1111",
+      "carro": "Onix",
+      "data_vencimento": "01/11/2025",
+      "telefone": "81995331107"
+    },
+    {
+      "nome": "Thiago",
+      "placa": "Qqqqq",
+      "carro": "Onix",
+      "data_vencimento": "02/11/2025",
+      "telefone": "81999581571"
+    },
+    {
+      "nome": "Teste cobrança",
+      "placa": "Teste",
+      "carro": "Uno",
+      "data_vencimento": "02/11/2025",
+      "telefone": "81995331107"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+2025/11/04-00:45:54.067 16368 Reusing MANIFEST C:\Users\thiag\PycharmProjects\Cursoemvideo\Thiagoo\software_locadora\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/04-00:45:54.070 16368 Recovering log #11
+2025/11/04-00:45:54.071 16368 Reusing old log C:\Users\thiag\PycharmProjects\Cursoemvideo\Thiagoo\software_locadora\.wwebjs_auth\session\Default\Local Storage\leveldb/000011.log 
+2025/11/04-00:46:58.626 19028 Level-0 table #15: started
+2025/11/04-00:46:58.640 19028 Level-0 table #15: 16412 bytes OK
+2025/11/04-00:46:58.644 19028 Delete type=0 #11
+2025/11/04-16:26:49.454 290 Level-0 table #17: started
+2025/11/04-16:26:49.463 290 Level-0 table #17: 16301 bytes OK
+2025/11/04-16:26:49.467 290 Delete type=0 #14
+2025/11/04-16:26:49.468 290 Compacting 4@0 + 1@1 files
+2025/11/04-16:26:49.493 290 Generated table #18@0: 27 keys, 3311 bytes
+2025/11/04-16:26:49.493 290 Compacted 4@0 + 1@1 files => 3311 bytes
+2025/11/04-16:26:49.493 290 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/04-16:26:49.494 290 Delete type=2 #8
+2025/11/04-16:26:49.494 290 Delete type=2 #10
+2025/11/04-16:26:49.494 290 Delete type=2 #12
+2025/11/04-16:26:49.494 290 Delete type=2 #15
+2025/11/04-16:26:49.494 290 Delete type=2 #17
